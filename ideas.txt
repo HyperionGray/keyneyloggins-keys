@@ -1,0 +1,2 @@
+- take the alias example really far. Before you get root, use aliases to hide the presence of anything strange
+  going on. e.g. nano opens, hide the bashrc lines, someone cats it, hide the cat line etc.

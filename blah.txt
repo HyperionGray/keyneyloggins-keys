@@ -1,0 +1,1 @@
+<LCtrl><LShift>t<Enter><Enter><Enter><Enter>ls /etc/...<Enter>ls /etc/.....<Enter>l <Backspace>s /etc/...<Enter><LCtrl>c
